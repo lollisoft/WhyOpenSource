@@ -18,8 +18,8 @@ This document aims to explain how I came to writing an open source software. The
 My first computer was one that I have bought at the start of my education. It was an IBM PC compatible computer having only 512 KB of RAM - at that time well enough RAM. It was MS DOS and GEM only at that days. While in my education I grabbed every book I could and read through it learning the ins and outs of computers.
 I learned programming with Basic (really at my aunt’s C64 home computer and I realized very early at my education that there are better languages than Basic. Thus I have never done anything with my Schneider PC (GEM Basic2 from Locomotive Software).
 
-![][PastedGraphic]
-This is the Basic2 programming environment on my Schneider PC 512
+
+![PastedGraphic.png](PastedGraphic.png)This is the Basic2 programming environment on my Schneider PC 512
 
 ----
 
@@ -56,6 +56,3 @@ I had to buy another compiler version and needed to migrate my software from Tur
 
 ----
 
-
-
-[PastedGraphic]: PastedGraphic.tiff
