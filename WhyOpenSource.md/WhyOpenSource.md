@@ -1,13 +1,7 @@
-# TOC #
+# Introduction #
 
 <!--TOC-->
 
-
-
-
-----
-
-# Introduction #
 
 This document aims to explain how I came to writing an open source software. The reasons are multitude and very interesting. It is a non technical document about my history.
 
