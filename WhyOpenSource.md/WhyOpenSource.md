@@ -54,5 +54,6 @@ Later, when I tried to market that software as a shareware version, I got told t
 
 I had to buy another compiler version and needed to migrate my software from Turbo Pascal 5.5 to 6.0 to be able to utilize that new fancy SAA UI toolkit.
 
+
 ----
 
