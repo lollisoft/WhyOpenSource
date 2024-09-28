@@ -20,7 +20,8 @@ My first computer was one that I have bought at the start of my education. It wa
 I learned programming with Basic (really at my aunt’s C64 home computer and I realized very early at my education that there are better languages than Basic. Thus I have never done anything with my Schneider PC Basic2 (Locomotive Software).
 
 
-![PastedGraphic.png](PastedGraphic.png)This is the Basic2 programming environment on my Schneider PC 1512 within GEM
+![][PastedGraphic]
+This is the Basic2 programming environment on my Schneider PC 1512 within GEM
 
 ----
 
@@ -37,6 +38,7 @@ As soon as I had Turbo Pascal I also had my first ideas for a software. While my
 I started to write ‚dateiver‘ - a disk cataloging system. It had only a command line UI. Even today there exists many command line tools and on Linux there are many that also work together and are very helpful. But my application was a standalone application not designed to work with other applications together.
 
 ![][Dateiver]
+
 Dateiver console application within Turbo Pascal 6.0
 
 As you may notice, the folder is named differently. At that time I didn’t structure my source code well and that leads to struggle as well.
@@ -69,12 +71,15 @@ I had to buy another compiler version and needed to migrate my software from Tur
 After learning SAA and modern UI in that days, I learned to know a dialog designer from a book. It should help me in software creation. Quickly I found that I would do more like that and created my own first way to produce software without typing code.
 
 ![][TVBuild]
+
 TVBuild - an attempt to produce code by an application that offers me menus and dialogs.
 
 ----
 
 
 
+
+[PastedGraphic]: PastedGraphic.png
 
 [Dateiver]: Dateiver.png
 
