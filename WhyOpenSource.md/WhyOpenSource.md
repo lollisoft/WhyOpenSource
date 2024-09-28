@@ -36,7 +36,13 @@ As soon as I had Turbo Pascal I also had my first ideas for a software. While my
 
 I started to write ‚dateiver‘ - a disk cataloging system. It had only a command line UI. Even today there exists many command line tools and on Linux there are many that also work together and are very helpful. But my application was a standalone application not designed to work with other applications together.
 
+![][Dateiver]
+Dateiver console application within Turbo Pascal 6.0
+
+As you may notice, the folder is named differently. At that time I didn’t structure my source code well and that leads to struggle as well.
+
 At that time I also learned much about programming data structures and I needed them in my disk cataloging system. Also I learned how to store and load the collected data and also to traverse a file system to read in the data from a disk. All that was before knowing something about databases.
+
 
 
 ----
@@ -58,4 +64,18 @@ I had to buy another compiler version and needed to migrate my software from Tur
 
 ----
 
+# My first model driven ideas #
 
+After learning SAA and modern UI in that days, I learned to know a dialog designer from a book. It should help me in software creation. Quickly I found that I would do more like that and created my own first way to produce software without typing code.
+
+![][TVBuild]
+TVBuild - an attempt to produce code by an application that offers me menus and dialogs.
+
+----
+
+
+
+
+[Dateiver]: Dateiver.png
+
+[TVBuild]: TVBuild.png
