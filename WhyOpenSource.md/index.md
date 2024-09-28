@@ -18,7 +18,7 @@
 [Top](index.html) | [Initial Notes](01.html)
 
 
-# Footer #
+
 
 [ScreenShot2018-06-15at35655AM]: ScreenShot2018-06-15at35655AM.png
 

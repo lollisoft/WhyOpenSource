@@ -94,7 +94,7 @@ We can change that setup at any time but it always seems best to get it right at
 
 ----
 
-# Footer #
+
 
 [ScreenShot2018-06-15at35655AM]: ScreenShot2018-06-15at35655AM.png
 
