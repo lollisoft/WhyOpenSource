@@ -83,7 +83,7 @@ def write_file(chunk, reference_chunk, filenumber, max_length)
   tf.puts make_link_line(filenumber, max_length)
   tf.puts
   tf.puts
-#  tf.print reference_chunk
+  tf.print reference_chunk
   tf.puts
   tf.puts
   tf.close

@@ -90,6 +90,8 @@ I can imagine that this may mean that this little book will have sections, each 
 We can change that setup at any time but it always seems best to get it right at the beginning, especially when we don’t know our way around the framework all that well. But I have enough experience with Scrivener to feel sure that we can’t get in too much trouble if we don’t do anything too radical. So we’ll let it ride. I do think I’ll create a folder and then test a compile.
 
 
+
+
 [ScreenShot2018-06-15at35655AM]: ScreenShot2018-06-15at35655AM.png
 
 [ScreenShot2018-06-15at35933AM]: ScreenShot2018-06-15at35933AM.png
