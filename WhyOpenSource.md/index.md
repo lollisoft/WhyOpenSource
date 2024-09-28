@@ -1,36 +1,24 @@
-[Top](index.html) | [Initial Notes](01.html)
+[Top](index.html) | [Introduction](01.html)
 
 # TOC #
 
 * [TOC](index.md)
-* [Initial Notes](01.md)
-* [Default Formatting](02.md)
-* [Styles](03.md)
-* [Sections](04.md)
-* [Documents, Sections, Layouts](05.md)
-* [Regrets, I’ve had a few](06.md)
+* [Introduction](01.md)
+* [Early days in computing](02.md)
+* [Starting with programming](03.md)
+* [My first software ideas](04.md)
+* [A first attempt for a customer](05.md)
+* [The professionals use SAA](06.md)
 
 
 
 
 
 
-[Top](index.html) | [Initial Notes](01.html)
+[Top](index.html) | [Introduction](01.html)
 
 
 
 
-[ScreenShot2018-06-15at35655AM]: ScreenShot2018-06-15at35655AM.png
-
-[ScreenShot2018-06-15at35933AM]: ScreenShot2018-06-15at35933AM.png
-
-[ScreenShot2018-06-15at41513AM]: ScreenShot2018-06-15at41513AM.png
-
-[ScreenShot2018-06-15at43151AM]: ScreenShot2018-06-15at43151AM.png
-
-[ScreenShot2018-06-15at43300AM]: ScreenShot2018-06-15at43300AM.png
-
-[ScreenShot2018-06-15at43419AM]: ScreenShot2018-06-15at43419AM.png
-
-[ScreenShot2018-06-15at43550AM]: ScreenShot2018-06-15at43550AM.png
+[PastedGraphic]: PastedGraphic.tiff
 
