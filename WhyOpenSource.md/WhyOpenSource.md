@@ -9,6 +9,7 @@
 
 # Initial Notes #
 
+
 We’re here to create a little “book”, showing how to create the GitHub pages you will be reading when this is all done. This chapter starts at the beginning, though it may not wind up being the first page of the “book”.
 I’ve just started with a blank Scrivener project, which I named “GitHub-Pages” and saved in Dropbox/Apps/Scrivener, where my shared Scrivener projects live.
 Right now, what I see on the screen looks like this:
