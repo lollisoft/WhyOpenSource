@@ -4,7 +4,9 @@
 
 
 This document aims to explain how I came to writing an open source software. The reasons are multitude and very interesting. It is a non technical document about my history.
+
 For short, the main reason for creating an open source project was that I had the benefit to use other open source projects. I understood the value in it and decided to make my project open source as well. The reason starting my own framework and stuff has to do with companies that potentially drop their products - or they have a live cycle that will end at a given time. I probably also have a problem to keep pace with that live cycle and rather stick to an older product for a longer time.
+
 I will extend this document from time to time and fill it up with my history.
 
 Lothar Behrens - Saturday, 20.10.2024
@@ -124,7 +126,7 @@ Power++ from Sybase
 
 ----
 
-# I began porting Train #
+# I began porting Trainres #
 
 When I have purchased Power++ Developer - the smallest version I was capable of buying at that time, I started porting my application I was developing for the club to use the Power++ class library. While doing this I added more time into building my sophisticated diagramming stuff than database, I can now say, I have neglected one of my biggest issue in my career as a professional software developer - I still wasn’t professional.
 
