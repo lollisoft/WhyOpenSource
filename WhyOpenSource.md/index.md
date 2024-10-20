@@ -17,6 +17,7 @@
 * [After some time Sybase dropped Power++](12.md)
 * [Starting my open source project](13.md)
 * [The current state and why it is still alive](14.md)
+* [Why has MFC survived so far?](15.md)
 
 
 This document aims to explain how I came to writing an open source software. The reasons are multitude and very interesting. It is a non technical document about my history.
