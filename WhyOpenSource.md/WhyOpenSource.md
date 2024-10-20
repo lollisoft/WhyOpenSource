@@ -20,7 +20,7 @@ My first computer was one that I have bought at the start of my education. It wa
 I learned programming with Basic (really at my aunt’s C64 home computer and I realized very early at my education that there are better languages than Basic. Thus I have never done anything with my Schneider PC Basic2 (Locomotive Software).
 
 
-![][PastedGraphic]
+![][SchneiderPC1512GEM]
 This is the Basic2 programming environment on my Schneider PC 1512 within GEM
 
 ----
@@ -79,7 +79,7 @@ TVBuild - an attempt to produce code by an application that offers me menus and 
 
 The time goes and I had to buy a more modern computer. While the first purchase after my Schneider PC was for a followup school and thus a notebook - it indeed was a sub notebook - one of the first DIN A 5 format notebooks that looked so cute. It still was a MS DOS only machine and I had to go further, I had made a decision to buy into a new tower 386 DX 40 PC with Windows 3.1 and a whooping 4 MB of RAM. With that PC I also shortly have purchased one of the fastest compilers available at that time - known to be used by Doom - a game. It was Watcom 10.6.
 
-![][Bildschirmfoto2024-10-20um105545]
+![][Watcom]
 The Watcom IDE with a splash screen
 
 Using that compiler, I learned C++ and Windows programming. I started with simple C API but moved fast into object oriented programming and started using MFC. There I still didn’t started with database programming and repeated my experiences with data structures using MFC and Drawcli as a base for my own application I started to write for a model railroad club that also had activities in riding real steam locomotives and old trains to take those people wanting to sit in old trains getting some coal smoke	 into the face.
@@ -90,7 +90,7 @@ Using that compiler, I learned C++ and Windows programming. I started with simpl
 
 With the new compiler and with some help from some club team mates I wrote a train reservation system - or more, I tried too. There was a stakeholder wanting fancy diagrams of the ride like those maps shown on train stations - in a shrinked down version though. At that time in 16 Bit Windows 3.1 on my 386 DX 40.
 
-![][Bildschirmfoto2024-10-20um111447]
+![][Train]
 Train - A windows application written using MFC
 
 At that time I went far with my knowledge - I thought - and was eager to further develop that application for the club. In the screenshot you see a net list with some red colored lines and one without. The colored ones represent the entry of two train ride plans shown on the right middle screen. The application reacted upon entering that plan with the drawing of the respective tables to start adding ride time schedules below the header. That was the plan.
@@ -104,10 +104,10 @@ Also the plan was to use that graphical presentation to store data within. As yo
 
 And you see some wonder I come to talk about later. Train survived into the Windows 10 era and can be developed with Visual Studio.
 
-![][Bildschirmfoto2024-10-20um112431]
+![][TrainVisualStudio]
 Train in Visual Studio 2022
 
-![][Bildschirmfoto2024-10-20um112746]
+![][TrainWindows10]
 And Train on Windows 10
 
 ----
@@ -118,7 +118,7 @@ After a while using Watcom 10.6 and MFC I got notice of a much fancier developme
 
 The marketing of Power++ appealed me to look into that tool - as it included my next journey to learn databases within that tool and claimed to be RAD and I could get ready with my application fast.
 
-![][Bildschirmfoto2024-10-20um114925]
+![][SybasePower]
 Power++ from Sybase
 
 
@@ -130,7 +130,7 @@ When I have purchased Power++ Developer - the smallest version I was capable of 
 
 The diagramming capabilities were interesting, because I have done my own interpreter to let the user design it’s own symbols. While doing so, the stuff was stored within a database and I even had some simple customer entries in my table.
 
-![][Bildschirmfoto2024-10-20um115956]
+![][PortedTrainres]
 Trainres - the new application with database and custom interpreter for symbols
 
 
@@ -177,7 +177,7 @@ Today, the project is still alive and that has a reason. The initial design led 
 
 I also skipped one goal after starting the project due to it’s sheer size and additional stuff to bring to live. That was the remote API part. I started with local only and didn’t started utilizing the client server API part for my project until now. It kept sleeping in my code base, though.
 
-Why is the project still alive? It is due to the fact, that I am my own stakeholder. I am using it - for software development purposes. One part is of course the cross platform capability to let me use the main application on my Mac OS X, Linux and on Windows of course. The second reason is that the main functionality within that project is a model driven software prototyping approach that let me quickly develop database software prototypes. That important part I have neglected uproot with the migration to Power++ what literally lead to an unfinished product.
+Why is the project still alive? It is due to the fact, that I am my own stakeholder. I am using it - for software development purposes. One part is of course the cross platform capability to let me use the main application on my Mac OS X, Linux and on Windows of course. The second reason is that the main functionality within that project is a model driven software prototyping approach that let me quickly develop database software prototypes. That important part I have neglected upfront with the migration to Power++ what literally lead to an unfinished product.
 
 Today, I am capable of creating from this UML model (the main application it self) a modern looking application in a completely different software development language and framework.
 
@@ -185,30 +185,30 @@ Today, I am capable of creating from this UML model (the main application it sel
 Part of the main UML model for the main application
 
 ![][lbDMFManagerGenerated]
-Main application. In front tne open source wxWidgets prototyper. In back generated DevExpress
+Main application. In front the open source wxWidgets prototyper. In back generated DevExpress
 
 ----
 
 
 
 
-[PastedGraphic]: PastedGraphic.png
+[SchneiderPC1512GEM]: SchneiderPC1512GEM.png
 
 [Dateiver]: Dateiver.png
 
 [TVBuild]: TVBuild.png
 
-[Bildschirmfoto2024-10-20um105545]: Bildschirmfoto2024-10-20um105545.png
+[Watcom]: Watcom.png
 
-[Bildschirmfoto2024-10-20um111447]: Bildschirmfoto2024-10-20um111447.png
+[Train]: Train.png
 
-[Bildschirmfoto2024-10-20um112431]: Bildschirmfoto2024-10-20um112431.png
+[TrainVisualStudio]: TrainVisualStudio.png
 
-[Bildschirmfoto2024-10-20um112746]: Bildschirmfoto2024-10-20um112746.png
+[TrainWindows10]: TrainWindows10.png
 
-[Bildschirmfoto2024-10-20um114925]: Bildschirmfoto2024-10-20um114925.png
+[SybasePower]: SybasePower.png
 
-[Bildschirmfoto2024-10-20um115956]: Bildschirmfoto2024-10-20um115956.png
+[PortedTrainres]: PortedTrainres.png
 
 [lbDMFManager]: lbDMFManager.png
 
