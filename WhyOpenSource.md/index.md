@@ -16,6 +16,7 @@
 * [I began porting Train](11.md)
 * [After some time Sybase dropped Power++](12.md)
 * [Starting my open source project](13.md)
+* [The current state and why it is still alive](14.md)
 
 
 This document aims to explain how I came to writing an open source software. The reasons are multitude and very interesting. It is a non technical document about my history.
@@ -51,4 +52,8 @@ Lothar Behrens - Saturday, 20.10.2024
 [Bildschirmfoto2024-10-20um114925]: Bildschirmfoto2024-10-20um114925.png
 
 [Bildschirmfoto2024-10-20um115956]: Bildschirmfoto2024-10-20um115956.png
+
+[lbDMFManager]: lbDMFManager.png width=1076px height=900px
+
+[2024-07-0916_35_43-Greenshot]: 2024-07-0916_35_43-Greenshot.png width=1440px height=810px
 
