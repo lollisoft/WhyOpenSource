@@ -53,7 +53,7 @@ Lothar Behrens - Saturday, 20.10.2024
 
 [Bildschirmfoto2024-10-20um115956]: Bildschirmfoto2024-10-20um115956.png
 
-[lbDMFManager]: lbDMFManager.png width=1076px height=900px
+[lbDMFManager]: lbDMFManager.png
 
-[2024-07-0916_35_43-Greenshot]: 2024-07-0916_35_43-Greenshot.png width=1440px height=810px
+[lbDMFManagerGenerated]: lbDMFManagerGenerated.png
 
